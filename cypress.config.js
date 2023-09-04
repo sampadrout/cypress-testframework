@@ -9,7 +9,7 @@ const pg = require("pg");
 const path = require('path');
 
 module.exports = defineConfig({
-  projectId: '2pw1r7',
+  projectId: "wao8p3",
   viewportWidth: 1920,
   viewportHeight: 1080,
   pageLoadTimeout: 60000,
